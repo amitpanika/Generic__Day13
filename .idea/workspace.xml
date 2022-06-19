@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="uc1_MaximumString" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -133,11 +133,19 @@
       <option name="project" value="LOCAL" />
       <updated>1655663605009</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="MaximumInteger">
+      <created>1655664205952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655664205952</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Generic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic" />
+    <MESSAGE value="MaximumInteger" />
+    <option name="LAST_COMMIT_MESSAGE" value="MaximumInteger" />
   </component>
 </project>
